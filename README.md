@@ -3,6 +3,8 @@
 ## Overview
 This project implements a Location/Address flow for users to select and save their delivery location. It utilizes Google Maps API for location search and geolocation and showcases a React-based frontend with a Node.js backend. The project also offers bonus features for enhanced user experience.
 
+![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
+
 ## Features
 ### Core Features
 1. **Location Permission Request**
