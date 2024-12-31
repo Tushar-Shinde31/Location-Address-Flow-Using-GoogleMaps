@@ -3,7 +3,7 @@
 ## Overview
 This project implements a Location/Address flow for users to select and save their delivery location. It utilizes Google Maps API for location search and geolocation and showcases a React-based frontend with a Node.js backend. The project also offers bonus features for enhanced user experience.
 
-![image](![Screenshot (229)](https://github.com/user-attachments/assets/80de14f8-499b-43ae-9cd6-80755cfed17f)
+(![Screenshot (229)](https://github.com/user-attachments/assets/80de14f8-499b-43ae-9cd6-80755cfed17f)
 
 ## Features
 ### Core Features
